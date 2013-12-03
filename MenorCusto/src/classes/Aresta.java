@@ -1,4 +1,3 @@
-
 public class Aresta {
 	
 	  private int peso;
@@ -7,7 +6,7 @@ public class Aresta {
 
       public Aresta(Vertice de, Vertice para) {
 
-              this.peso = 1;
+              this.peso = 0;
               this.origem = de;
               this.destino = para;
 

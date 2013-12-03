@@ -35,7 +35,7 @@ public class Aresta {
       }
 
       public Vertice getOrigem() {
-              return origem;
+              return origem
       }
 
 

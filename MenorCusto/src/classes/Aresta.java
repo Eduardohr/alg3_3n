@@ -1,6 +1,6 @@
 public class Aresta {
 	
-	  private int dudu;
+	  private int peso;
       private Vertice origem;
       private Vertice destino;
 
